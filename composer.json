@@ -1,0 +1,12 @@
+{
+    "name": "clake/pusher",
+    "description": "OctoberCMS Pusher Integration. Provides a simple wrapper for Pusher making it easier than ever to use websockets in an October project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn Clake",
+            "email": "shawn.clake@gmail.com"
+        }
+    ],
+    "require": {}
+}
