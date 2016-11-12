@@ -9,6 +9,8 @@ use System\Classes\PluginBase;
 class Plugin extends PluginBase
 {
 
+	public $require = ['Clake.UserExtended'];
+
     /**
      * Returns information about this plugin.
      *
